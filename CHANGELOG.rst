@@ -2,8 +2,7 @@
 Changelog
 =========
 
-
-0.0.1 (TODO: YYYY-MM-DD)
-------------------
+0.1.0 (to be released)
+----------------------
 
 * Initial release.
